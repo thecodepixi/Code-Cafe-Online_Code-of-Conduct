@@ -52,7 +52,8 @@ We value your participation in our community and hope that by communicating thes
 1. **THIS IS A SAFE SPACE.**
     - We aim to be a safe space for all of our members. We consider impact before intent, and prioritize the safety of marginalized people over the comfort of the privileged. This means that, especially as a cis/straight/white person, you might be called out on problematic behavior. Do not confuse the discomfort this brings with being ‘unsafe’.
     - We expect you to get explicit, enthusiastic consent for any manner of contact, including sexual attention, and simulated physical contact in online conversations. Respect boundaries, including, but not
-    limited to, the withdrawal of consent at any time. This should be understood to include direct messaging. We do not send direct messages to other members of the community without first getting enthusiastic consent to do so. 
+    limited to, the withdrawal of consent at any time.
+    - We expect all members to get explicit and enthusiastic consent before sending direct or private messages to other members, excluding the messaging of admins and moderators for the purpose of communicating CoC violations.
 2. **WE ARE INCLUSIVE.** 
     - Do not engage in racist, homophobic, transphobic, ableist, sexist, ageist, or otherwise exclusionary behavior, including, but not limited to, any and all forms of shaming, erasure, gaslighting, and victim blaming.
     - Do not make exclusionary jokes, not even ironically.
