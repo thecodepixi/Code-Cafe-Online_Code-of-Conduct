@@ -31,7 +31,7 @@ Harassment includes but is not limited to: offensive and/or derogatory verbal or
 
 If a Code Cafe Online member or guest engages in harassing behavior, admins and moderators may take actions they deem appropriate, including warning the offender (either privately or publicly), and banning the harassing member/guest from further participation in the Code Cafe Online community. 
 
-If you are being harassed, notice someone being harassed, or have other concerns relating to activity you see taking place within the community, please contact an admin or moderator immediately. You may contact admins and moderators via Discord DM, Twitter DM to @CodeCafeOnline, in a private chat during a live event, or by emailing TheOriginalPixi@gmail.com. If you choose to contact Emily via email, please use the subject line "CoC Alert for Code Cafe Online". 
+If you are being harassed, notice someone being harassed, or have other concerns relating to activity you see taking place within the community, please contact an admin or moderator immediately. You may contact admins and moderators via Discord DM, Twitter DM to @CodeCafeOnline, in a private chat during a live event, or by emailing emily@code-cafe.online . If you choose to contact Emily via email, please use the subject line "CoC Alert for Code Cafe Online". 
 
 Please be specific in your communication and identify: 
 
