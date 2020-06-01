@@ -75,11 +75,10 @@ We value your participation in our community and hope that by communicating thes
     racism, sexism, or any other axis, as well as white supremacy, white
     feminism, exclusionary radical feminism of any kind, anti-semitism, any
     kind of apologism, and the use of ableist language.
+    - We believe Black Lives Matter.
     - We are pro-choice.
-    - We support sex workers, and the decriminalization of
-    sex work.
-    - We celebrate the full spectrum of gender expression, sexual
-    orientation, and attraction.
+    - We support sex workers, and the decriminalization of sex work.
+    - We celebrate the full spectrum of gender expression, sexual orientation, and attraction.
 7. **ANGER IS VALID, AGGRESSION IS NOT.**
     - The expression of justified anger will not to be policed within this space. Tone policing and the expectation of politeness have long been used as tools for oppression, as reasons for dismissal of valid arguments, and we will not be complicit in propagating that behavior.
     - There is no room for aggression, however; do not let your anger tempt you into violating the rules of this space. Use of violent language, and threats of violence, constitute harassment and are grounds for expulsion under the regulations laid out elsewhere in this document.
