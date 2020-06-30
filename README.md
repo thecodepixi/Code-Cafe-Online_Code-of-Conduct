@@ -90,7 +90,7 @@ We value your participation in our community and hope that by communicating thes
     - To make sure that the spaces we provide remain safe, we have moderators who will monitor these spaces and intervene if things get out of hand.
     - They have the ability and autonomy to remove any offending posts/comments if deemed necessary, and issue warnings or expulsions to offending members if/when the expectations and regulations of this document are violated.
     - Moderators are volunteers and members of the Code Cafe Online community. If they intervene, however, they assume a greater responsibility that comes with this role, and their word will be law. You are expected to comply, even if you disagree.
-    - If you consider a particular intervention to be in violation of these rules, please see # 11.
+    - If you consider a particular intervention to be in violation of these rules, please see #11.
 10. **GROUNDS FOR IMMEDIATE REMOVAL.**
     - We do not condone threats, violence, hate speech, harassment, or any other actions that are deemed by moderators to have caused significant harm or distress to members of this group. Such actions are ground for immediate removal.
 11. **HANDLING ADMIN AND MODERATOR MISCONDUCT.**
