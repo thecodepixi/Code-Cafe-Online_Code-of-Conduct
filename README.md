@@ -23,7 +23,7 @@
 
 ### Code Cafe Online's Anti-Harassment Policy and Procedures
 
-*all Code Cafe Online community activities, events, forums, members, admins, moderators, presenters and guests are held to the anti-harassment policy that follows. In addition to governing our own events, content and members, Code Cafe Online will only collaborate and participate with groups that also offer an anti-harassment policy and Code of Conduct to their members and attendees.*
+*All Code Cafe Online community activities, events, forums, members, admins, moderators, presenters and guests are held to the anti-harassment policy that follows. In addition to governing our own events, content and members, Code Cafe Online will only collaborate and participate with groups that also offer an anti-harassment policy and Code of Conduct to their members and attendees.*
 
 Code Cafe Online is dedicated to providing a harassment-free community for everyone regardless of gender and gender-expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or nationality. We do not tolerate harassment of any kind of admin, moderators, members, and guests.
 
